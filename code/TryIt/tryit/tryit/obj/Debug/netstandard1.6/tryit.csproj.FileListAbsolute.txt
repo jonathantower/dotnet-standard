@@ -1,0 +1,6 @@
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\bin\Debug\netstandard1.6\tryit.deps.json
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\bin\Debug\netstandard1.6\tryit.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\bin\Debug\netstandard1.6\tryit.pdb
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\obj\Debug\netstandard1.6\tryit.AssemblyInfo.cs
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\obj\Debug\netstandard1.6\tryit.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\tryit\obj\Debug\netstandard1.6\tryit.pdb

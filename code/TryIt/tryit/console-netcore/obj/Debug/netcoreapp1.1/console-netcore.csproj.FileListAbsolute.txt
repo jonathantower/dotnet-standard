@@ -1,0 +1,11 @@
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\console-netcore.deps.json
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\console-netcore.runtimeconfig.json
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\console-netcore.runtimeconfig.dev.json
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\console-netcore.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\console-netcore.pdb
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\tryit.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\bin\Debug\netcoreapp1.1\tryit.pdb
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\obj\Debug\netcoreapp1.1\console-netcore.csprojResolveAssemblyReference.cache
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\obj\Debug\netcoreapp1.1\console-netcore.AssemblyInfo.cs
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\obj\Debug\netcoreapp1.1\console-netcore.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\console-netcore\obj\Debug\netcoreapp1.1\console-netcore.pdb

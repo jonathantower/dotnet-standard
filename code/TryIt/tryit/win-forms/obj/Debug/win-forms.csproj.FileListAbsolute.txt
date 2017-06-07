@@ -1,0 +1,12 @@
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\win-forms.exe.config
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\win-forms.exe
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\win-forms.pdb
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\tryit.dll
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\bin\Debug\tryit.pdb
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win-forms.csprojResolveAssemblyReference.cache
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win-forms.csproj.win-forms.exe.config
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win_forms.Properties.Resources.resources
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win-forms.csproj.GenerateResource.Cache
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win-forms.exe
+C:\Users\jtower\Documents\Speaking\dotnet-standard\Code\TryIt\tryit\win-forms\obj\Debug\win-forms.pdb
